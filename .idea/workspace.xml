@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42ea5611-8631-4840-a2be-0ee13501a011" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QgoHi5kNgYQEtmccx3MIBPxPGp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java/Spring-boot-tutorial&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.11792453&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d05cee063be8d8e30ca039952126e3cc&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.Oauthoauthserver.Repository" />
+      <recent name="com.company.Oauthoauthserver.Entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CmsApplication">
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="CMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.company.client.CmsApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthAuthorizationServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Oauth-authorization-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.company.Oauthoauthserver.OauthAuthorizationServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Oauthoauthserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthResourceServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Oauth-resource-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.companny.Oauthresourceserver.OauthResourceServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OauthResourceServerApplication" />
+      <item itemvalue="Spring Boot.OauthAuthorizationServerApplication" />
+      <item itemvalue="Spring Boot.CmsApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CmsApplication" />
+        <item itemvalue="Spring Boot.OauthAuthorizationServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42ea5611-8631-4840-a2be-0ee13501a011" name="Changes" comment="" />
+      <created>1685784511842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685784511842</updated>
+      <workItem from="1685784513471" duration="4677000" />
+      <workItem from="1685795494958" duration="5791000" />
+      <workItem from="1685865487035" duration="7183000" />
+      <workItem from="1685892962774" duration="11180000" />
+      <workItem from="1685944303742" duration="4333000" />
+      <workItem from="1686025752493" duration="5941000" />
+      <workItem from="1686241932584" duration="1174000" />
+      <workItem from="1686281851933" duration="23097000" />
+      <workItem from="1686551643982" duration="5644000" />
+      <workItem from="1686624690030" duration="10860000" />
+      <workItem from="1686713453014" duration="3308000" />
+      <workItem from="1686766294678" duration="648000" />
+      <workItem from="1686799424160" duration="585000" />
+      <workItem from="1687010194868" duration="555000" />
+      <workItem from="1687428607762" duration="6007000" />
+      <workItem from="1687456929431" duration="2204000" />
+      <workItem from="1687459256221" duration="172000" />
+      <workItem from="1687459463862" duration="940000" />
+      <workItem from="1687460462199" duration="709000" />
+      <workItem from="1687483359439" duration="778000" />
+      <workItem from="1687487166242" duration="2498000" />
+      <workItem from="1687489783370" duration="2695000" />
+      <workItem from="1687532825849" duration="19444000" />
+      <workItem from="1687627563465" duration="5892000" />
+      <workItem from="1687660193707" duration="2307000" />
+      <workItem from="1687663117163" duration="418000" />
+      <workItem from="1687663752292" duration="5353000" />
+      <workItem from="1687685895701" duration="4306000" />
+      <workItem from="1687692084537" duration="342000" />
+      <workItem from="1687775323699" duration="5813000" />
+      <workItem from="1687881811895" duration="5623000" />
+      <workItem from="1687923216115" duration="7206000" />
+      <workItem from="1687970679424" duration="4865000" />
+      <workItem from="1688004612641" duration="7002000" />
+      <workItem from="1688096432328" duration="1314000" />
+      <workItem from="1688280146361" duration="7066000" />
+      <workItem from="1688355445004" duration="14073000" />
+      <workItem from="1688391882321" duration="3704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
